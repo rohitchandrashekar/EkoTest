@@ -21,7 +21,7 @@ TRY IT!
  - Run the script
 
    ```shy
-   $ node parenthesis.js &
+   $ node parenthesis.js
    ```
 
 - [x] similarWords
@@ -29,5 +29,5 @@ TRY IT!
 - Run the script
 
    ```sh
-   $ node similarWords.js &
+   $ node similarWords.js
    ```
